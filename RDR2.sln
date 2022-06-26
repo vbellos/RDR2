@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RDR2", "RDR2\RDR2.csproj", "{6128FD8E-AFDF-44D7-B1A8-A6AC9CB8CB3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6128FD8E-AFDF-44D7-B1A8-A6AC9CB8CB3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6128FD8E-AFDF-44D7-B1A8-A6AC9CB8CB3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6128FD8E-AFDF-44D7-B1A8-A6AC9CB8CB3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6128FD8E-AFDF-44D7-B1A8-A6AC9CB8CB3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A5AAA31-5E0A-4BD7-95DE-D4CFE88A004B}
+	EndGlobalSection
+EndGlobal
